@@ -14,8 +14,8 @@ Stretch Goals:
  * Heaps
 
 ## Tasks
-* Day 1 In Class:  `doubly_linked_list`
-* Day 1 Homework:  `queue_and_stack`
+* Day 1 In Class:  `doubly_linked_list` [x]
+* Day 1 Homework:  `queue_and_stack` [x]
 * Day 2 In Class:  No Starter.  Interview problems described below.
 * Day 2 Homework:  `lru_cache`
 * Day 3 In Class:  No Starter. Research and planning exercise below.
