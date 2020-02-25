@@ -57,7 +57,7 @@ class LRUCache:
         elif self.dll.length < self.limit:  # Check limit
             self.dll.add_to_head(key, value)
             self.storage[key] = value
-        else:  # If fill, remove last and add to head
+        else:  # If full, remove last and add to head
             switch_key, switch_value = self.dll.remove_from_tail()
             del self.storage[switch_key]
             self.dll.add_to_head(key, value)
