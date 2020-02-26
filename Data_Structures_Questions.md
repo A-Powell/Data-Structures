@@ -28,7 +28,7 @@ Answer the following questions for each of the data structures you implemented a
 
 5. What is the runtime complexity of `get_max`?
 
-## Doubly Linked List
+## Doubly Linked List - O(1)
 
 1. What is the runtime complexity of `ListNode.insert_after`?
 
