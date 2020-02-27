@@ -20,8 +20,8 @@ Stretch Goals:
 * Day 2 Homework:  `lru_cache` [x]
 * Day 3 In Class:  No Starter. Research and planning exercise below. [x]
 * Day 3 Homework:  `binary_search_tree` part 1 [x]
-* Day 4 In Class:  No Starter. White-boarding exercise below.
-* Day 4 Homework: `binary_search_tree` part 2
+* Day 4 In Class:  No Starter. White-boarding exercise below. [x]
+* Day 4 Homework: `binary_search_tree` part 2 [x]
 
  > NOTE: The quickest and easiest way to reliably import a file in Python is to just copy and paste the file you want to import into the same directory as the file that wants to import. This obviously isn't considered best practice, but it is the most reliable way to do it across all platforms.  If the import isn't working, feel free to try this method.
 
